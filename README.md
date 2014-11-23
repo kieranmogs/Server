@@ -12,5 +12,4 @@ Features include;
 - Multiple worlds and several additional world types
 - Ring Platforms, personal and base shields, stargates and irises!
 - Pre-created arenas with multiple gamemodes, such as "Storm the SGC" and "Battle for Midway".
-- 
 
